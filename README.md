@@ -29,7 +29,7 @@ Reward : Potential
 Network : KITE TESTNET
 
 Link:
-https://testnet.gokite.ai?referralCode=6HDIAQ87
+https://testnet.gokite.ai?referralCode=D37IGTIZ
 - Connect Wallet  (New / BURNER)
 - Complete Landing Quiz
 - Get Faucet and Stake
@@ -50,7 +50,7 @@ https://testnet.gokite.ai?referralCode=6HDIAQ87
 ### Linux
 1. clone project repo
    ```
-   git clone https://github.com/Widiskel/kite-ai-bot-js.git 
+   git clone https://github.com/SKaaalper/kite-ai-bot-js.git 
    cd kite-ai-bot-js
    ```
 2. run
@@ -76,7 +76,7 @@ https://testnet.gokite.ai?referralCode=6HDIAQ87
 1. Open your `Command Prompt` or `Power Shell`.
 2. Clone project repo
    ```
-   git clone https://github.com/Widiskel/kite-ai-bot-js.git
+   git clone https://github.com/SKaaalper/kite-ai-bot-js.git
    ```
    and cd to project dir
    ```
