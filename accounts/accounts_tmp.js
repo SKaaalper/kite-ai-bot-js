@@ -1,3 +1,3 @@
 export const privateKey = [
-  "0x_Your_Private_KEY" 
+  "0xYour_Private_KEY" 
 ];
