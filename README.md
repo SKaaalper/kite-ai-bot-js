@@ -62,7 +62,7 @@ https://testnet.gokite.ai?referralCode=D37IGTIZ
    ```
    nano accounts/accounts.js
    ```
-4. Configure your bot configuration and proxy
+4. (Optional) Configure your bot configuration and proxy
    ```
    nano config/config.js
    nano config/proxy_list.js
